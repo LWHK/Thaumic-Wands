@@ -10,7 +10,7 @@ item_wand_rod_quartz.name=石英杖柄
 item_wand_rod_bone.name=白骨杖柄
 item_wand_rod_silverwood.name=银木杖柄
 
-item_wand_rod_ta_adaminitewood.name= 鎏金木杖柄
+item_wand_rod_ta_adaminitewood.name=鎏金木杖柄
 
 #Wand Caps
 item_wand_cap_iron.name=铁杖端
@@ -30,8 +30,13 @@ item_wand_cap_ta_adaminite.name=充能精金杖端
 item_wand_cap_ta_mithminite_inert.name=惰性寒晶杖端
 item_wand_cap_ta_mithminite.name=充能寒晶杖端
 
+item_wand_cap_tb_thauminite.name=秘晶杖端
+
+item_wand_cap_pa_alkimium.name=炼化杖端
+
+
 # this is what is used to name the wand - the position of the variables can be altered so it makes more sense in other languages
-item.wand.name=%CAP %ROD %OBJ
+item.wand.name=%CAP%ROD%OBJ
 #
 item.wand.wand.obj=法杖
 item.wand.sceptre.obj=权杖
@@ -57,6 +62,11 @@ item.wand.void.cap=虚空侵蚀
 item.wand.mithrillium.cap=寒晶谐律
 item.wand.adaminite.cap=精金华饰
 item.wand.mithminite.cap=秘银闪耀
+
+item.wand.thauminite.cap=秘晶浮雕
+
+item.wand.alkimium.cap=炼化冠冕
+
 #
 
 # --- Inventory ---
@@ -151,3 +161,16 @@ research.ROD_ADAMINITEWOOD.stage.1=通过向一根普通的银木杖端内注入
 
 research.CAP_MITHMINITE.stage.0=最终还是来了，这种金属内部充满了原始能量，我根本无法测量出它对灵气的操控性为几何。但我不在乎为什么它这么强大，我只想将它制作为我的杖端，我从未如此渴望过去做一件事。
 research.CAP_MITHMINITE.stage.1=我是不是傻了，居然想着用这些愚蠢的世界盐来与杖端进行反应。我向杖端中注入了我能找来的最纯净的原始能量，很昂贵，但是真的太值了，40%的灵气减免，3的水晶消耗减免，我感觉我还能继续研究，但我终究走到了这条路的尽头。
+
+# - Thaumic Bases -
+
+#Thauminite Caps
+research.CAP_THAUMINITE.stage.0=这种材料与神秘锭颇为相似，但它更为的晶莹剔透，且其内在结构更为的稳定。将这种材料制作成杖端估计不是什么难事。
+research.CAP_THAUMINITE.stage.1=好吧，这可比我想象中的还要简单。在铸造过程中甚至不需要注魔，只需要一些世界盐即可。这种杖端有着 15% 的灵气减免，以及 1 的 §7秩序§r水晶消耗减免，这买卖可真是划得来。
+
+# - Planar Artifice -
+
+#Alkimium Caps
+research.CAP_ALKIMIUM.stage.0=从我发现了炼化金属之后，它就替代了黄铜的工作角色，我开始大量替换掉黄铜，换上这一种新的金属。现在，该给我的黄铜杖端换一换了。
+research.CAP_ALKIMIUM.stage.1=由于它仅是黄铜的一种派生金属，所以我最初其实并没有对它抱有太高的期望。然而我没料到，它居然能和多种要素产生协同。 <br> 它不仅有着 5% 的灵气减免，还有着 1 的 §3水§r，§2大地§r以及§7秩序§r水晶消耗减免，真是妙极了。 
+
