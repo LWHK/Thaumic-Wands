@@ -1,5 +1,7 @@
 # --- Items ---
 
+item.item_primal_charm.name=Primal Charm
+
 #Wand Rods
 item_wand_rod_greatwood.name=宏伟之木杖柄
 item_wand_rod_reed.name=甘蔗杖柄
@@ -96,6 +98,10 @@ research.UNLOCKTHAUMATURGY.stage.1=尽管我不能够在制作引导工具时向
 # Base Thaumaturgy
 research.BASETHAUMATURGY.stage.0=有了法杖，我就可以制造一些奥术设备了，但我有点怀疑这根法杖是否够用，也许我应该研究一下其它可用来制作法杖的材料。
 research.BASETHAUMATURGY.addendum.0=我意识到，我制作的这些法术核心不仅能够装在法师护手上，还能直接装在法杖的杖端上。有趣的是，装载在法杖上的法术核心不再从周围的灵气场中调用灵气，而是抽取法杖中的灵气使用。在某些情况下，这会很有用。
+
+# Primal Charm
+research.PRIMALCHARM.stage.0=While I was unable to charge my wand from the aura around me, I found small orbs of vis allowing me to charge it nonetheless, however it should be possible to construct a device that is able to drain atleast a little of the surrounding aura to charge my wand.
+research.PRIMALCHARM.stage.1=I came up with a small device that is basically an augmented vis resonator, creating a vis-feedback-loop from the oscillations of included vis crystals, turning aura into concentrated vis orbs, to be collected using a wand.  
 
 # Copper Caps
 research.CAP_COPPER.stage.0=这些工程师们使用金属来制造他们那些愚蠢的机器，又或者制作成一根根线，来传导他们称为“能量（flux）”的东西（这些蠢货可能根本不知道他们所谈论的东西是什么），我想，要是金属也能够传导灵气就好了。
