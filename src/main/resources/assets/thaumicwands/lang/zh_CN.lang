@@ -1,6 +1,6 @@
 # --- Items ---
 
-item.item_primal_charm.name=Primal Charm
+item.item_primal_charm.name=元始护身符
 
 #Wand Rods
 item_wand_rod_greatwood.name=宏伟之木杖柄
@@ -76,7 +76,7 @@ tw.crystal.discount=水晶消耗减免:
 #
 
 # --- Research ---
-tc.research_category.THAUMATURGY=秘术学
+tc.research_category.THAUMATURGY=神秘学
 
 # -- Cards -- 
 
@@ -100,8 +100,8 @@ research.BASETHAUMATURGY.stage.0=有了法杖，我就可以制造一些奥术�
 research.BASETHAUMATURGY.addendum.0=我意识到，我制作的这些法术核心不仅能够装在法师护手上，还能直接装在法杖的杖端上。有趣的是，装载在法杖上的法术核心不再从周围的灵气场中调用灵气，而是抽取法杖中的灵气使用。在某些情况下，这会很有用。
 
 # Primal Charm
-research.PRIMALCHARM.stage.0=While I was unable to charge my wand from the aura around me, I found small orbs of vis allowing me to charge it nonetheless, however it should be possible to construct a device that is able to drain atleast a little of the surrounding aura to charge my wand.
-research.PRIMALCHARM.stage.1=I came up with a small device that is basically an augmented vis resonator, creating a vis-feedback-loop from the oscillations of included vis crystals, turning aura into concentrated vis orbs, to be collected using a wand.  
+research.PRIMALCHARM.stage.0=尽管我没办法从周围的灵气场中汲取灵气，但我发现我可以吸收那些掉落在地上的，宛如尘埃一般的细小灵气球。然而，虽然灵气场中的灵气难以吸取，但总会有那么一丝的可能能够让其屈服于我，为我的法杖所用，我想我应该制造出一台设备，帮助我吸取那些可被操控的灵气。
+research.PRIMALCHARM.stage.1=我制造出了一台小设备，这个小设备基本上就是一台增强型灵气调谐器。它可以从所包含的灵气结晶的振荡中创建灵气反馈循环，将附近灵气转化为浓缩的灵气球，而这些灵气球便可被法杖收集了。 
 
 # Copper Caps
 research.CAP_COPPER.stage.0=这些工程师们使用金属来制造他们那些愚蠢的机器，又或者制作成一根根线，来传导他们称为“能量（flux）”的东西（这些蠢货可能根本不知道他们所谈论的东西是什么），我想，要是金属也能够传导灵气就好了。
@@ -141,7 +141,7 @@ research.ROD_ICE.stage.1=有趣极了，经过奥术注魔的冰足足可以容�
 
 # Obsidian Rod
 research.ROD_OBSIDIAN.stage.0=我有了个新想法，试试黑曜石怎么样？黑曜石能够天然地与 §2Terra§r 要素亲和，用黑曜石制作出的法杖或许在某些方面很有用。研究这玩意儿可能要花点时间，但我对这种新型材料充满信心。
-research.ROD_OBSIDIAN.stage.1=有趣极了，经过奥术注魔的黑曜石足足可以容纳600点的vis，这可远超过宏伟之木的容纳量，而且奇妙的是，当我拿着这根杖柄且靠近地下时，我能感觉到它散发出的一种奇妙谐振，如果我再将其放到足够地的地方，会发生些什么？
+research.ROD_OBSIDIAN.stage.1=有趣极了，经过奥术注魔的黑曜石足足可以容纳600点的vis，这可远超过宏伟之木的容纳量，而且奇妙的是，当我拿着这根杖柄且靠近地下时，我能感觉到它散发出的一种奇妙谐振，如果我再将其放到足够低的地方，会发生些什么？
 
 # Quartz Rod
 research.ROD_QUARTZ.stage.0=我有了个新想法，试试石英怎么样？石英能够天然地与 §fOrdo§r 要素亲和，用石英制作出的法杖或许在某些方面很有用。研究这玩意儿可能要花点时间，但我对这种新型材料充满信心。
